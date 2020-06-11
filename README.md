@@ -8,7 +8,7 @@ Collection of 360 datasets for Meshroom
 
 You are welcome to contribute up to 20 images to this repository.
 If you have more images, please provide a download link in the readme.md.
-By contributing your images, you agree that they will be licensed under CC BY-SA 4.0
+By contributing your images, you agree that they will be licensed under CC BY-SA 4.0 by [yourname].
 
 # Structure
 
