@@ -1,6 +1,8 @@
 
 **Dataset**: HeidelbergKornmarkt
 
+**Type**: single fish-eye, one side
+
 **Creator**: https://github.com/TR7
 
 **Camera**: Insta360 OneX
