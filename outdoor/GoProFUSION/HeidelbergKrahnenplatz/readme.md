@@ -1,6 +1,8 @@
 
 **Dataset**: HeidelbergKrahnenplatz
 
+- This dataset can be imported as Rig in Meshroom
+
 **Type**: single fish-eye, front/back
 
 **Creator**: https://github.com/TR7
