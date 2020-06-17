@@ -1,19 +1,22 @@
-**Dataset**:
+**Datasets**:
 
-- _Living Room_ 5-images Equirectangular/DualFisheye Interior Dataset 6080x3040
+- _Living Room_ 
 
-  tscibilia_Equirect_20190312_001 - ...005
+  5-images
+  Equirectangular: living_room_equirect_5_images_tscibilia.zip
+  DualFisheye: living_room_dual_fisheye_5_images_tscibilia.zip
 
-- _Conference Room_ 15-images Equirectangular Interior Dataset
-
-  IMG_20200617_......._.._merged.jpg
+- _Conference Room_
+  
+  15-images
+  Equirectangular: conference_room_equirect_15_images_SM-26.zip
   
   HDR on, 4 stops, 800 ISO, fluorescent WB 
 
 **Creators**
 
-- _Living Room_ github.com/tscibilia
-- _Conference Room_ github.com/SM-26
+- _Living Room_ https://github.com/tscibilia
+- _Conference Room_ https://github.com/SM-26
 
 **Camera**
 
