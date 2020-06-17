@@ -5,7 +5,7 @@
 
 **Creator**: https://github.com/TR7
 
-**Camera**: Insta360 OneX
+**Camera**: GoPro FUSION
 
 **License**: CC-BY-SA-4.0
 
