@@ -1,6 +1,8 @@
 
 **Dataset**: HeidelbergKrahnenplatz
 
+- 0.5 Sec Photo Timelapse
+
 - This dataset can be imported as Rig in Meshroom
 
 **Type**: single fish-eye, front/back
