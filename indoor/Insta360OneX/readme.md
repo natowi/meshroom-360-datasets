@@ -1,4 +1,7 @@
-**Dataset**:
+**Dataset**: 
+HDR on, 4 stops
+800 ISO
+fluorescent WB
 
 **Creator**: tscibilia
 
