@@ -10,20 +10,13 @@ You are welcome to contribute up to 20 images to this repository.
 If you have more images, please provide a download link in the readme.md.
 By contributing your images, you agree that they will be licensed under CC BY-SA 4.0 by [yourname].
 
-Create a new subfolder with your github username to upload your images.
+Create a new subfolder to upload your images.
 
 # Structure
 
-**indoor**
+**indoor/outdoor**
 - cameramodel
   - readme.md # short dataset description and name of the contributer, link to full dataset if necessary
-  - fisheye
-  - ...
-
-
-**outdoor**
-- cameramodel
-  - fisheye
-  - ...
+  - images-subfolder
 
 
